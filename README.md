@@ -184,7 +184,7 @@ Altair slc a better interface to python using a slc macro sandwich
             |_|
     */
 
-    libname sd1 "d:/sd1";
+    libname sd1 sas7bdat "d:/sd1";
 
     options
      validvarname=upcase ;
