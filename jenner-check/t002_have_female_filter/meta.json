@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_have_female_filter",
+  "source_file": "utl-altair-slc-a-better-interface-to-python-using-a-slc-macro-sandwich.sas",
+  "source_blob_sha": "175d1d17e1f9e651d82a893bac0658e85c7879f2",
+  "source_commit": "2dd8ed48e7c6077a8f8053a1c4c935defc5b21c7",
+  "notes": "SAS-native re-expression of the repo's usage example: same sd1.have input rows and same sex=F filter that the Python sandwich (utl_slc_pybeginx/utl_slc_pyendx) exists to compute, run directly via PROC SQL + PROC PRINT instead of round-tripping through Python/pandas/R. Output matches the README's captured listing (Alice/Barbara/Carol, all F)."
+}
