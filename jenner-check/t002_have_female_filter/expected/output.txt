@@ -1,0 +1,7 @@
+
+  Obs     name  sex  age
+-----  -------  ---  ---
+    1  Alice    F     13
+    2  Barbara  F     13
+    3  Carol    F     14
+
